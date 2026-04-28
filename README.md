@@ -1,7 +1,9 @@
 # Hide and Seek Champion Sightings in the 21st Century: An Analysis of Bigfoot Sighting Data
 
 An interactive R Shiny application for analyzing temporal and spatial patterns in Bigfoot sighting reports from the 21st century.
+
 🔗 **Interactive Dashboard:** [View here](https://through-staats-looking-glass.shinyapps.io/HideAndSeekChampion)
+
 ## Overview
 
 This project performs comprehensive time series analysis on Bigfoot sighting data from the Bigfoot Field Researchers Organization (BFRO) database, focusing on reports from January 2000 through March 2024. The application provides interactive visualizations, seasonal decomposition, autocorrelation analysis, and multiple forecasting methods to explore patterns in cryptid sighting reports.
